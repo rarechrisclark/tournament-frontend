@@ -33,8 +33,8 @@ Import the library from npm using [jsDelivr](https://www.jsdelivr.com/) (you can
 Or from GitHub with (you can replace `@master` by any branch name, tag name or commit id):
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Drarig29/brackets-viewer.js@master/dist/brackets-viewer.min.css" />
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Drarig29/brackets-viewer.js@master/dist/brackets-viewer.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rarechrisclark/tournament-frontend@master/dist/brackets-viewer.min.css" />
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/rarechrisclark/tournament-frontend@master/dist/brackets-viewer.min.js"></script>
 ```
 
 Now, you can use it with data generated using [brackets-manager](https://github.com/Drarig29/brackets-manager.js) or with crafted data following the [brackets-model](https://github.com/Drarig29/brackets-model).

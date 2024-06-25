@@ -1,6 +1,6 @@
 {
-    "name": "brackets-viewer",
-    "version": "1.6.2",
+    "name": "tournament-frontend",
+    "version": "0.0.1",
     "description": "A simple library to display tournament brackets (round-robin, single elimination, double elimination)",
     "files": [
         "dist/"
@@ -17,7 +17,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Drarig29/brackets-viewer.js.git"
+        "url": "git+https://github.com/rarechrisclark/tournament-frontend.git"
     },
     "keywords": [
         "javascript",
@@ -26,16 +26,16 @@
         "viewer",
         "display"
     ],
-    "author": "Corentin Girard",
+    "author": "Chris Clark",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Drarig29/brackets-viewer.js/issues"
+        "url": "https://github.com/rarechrisclark/tournament-frontend/issues"
     },
     "browserslist": [
         "defaults",
         "not IE 11"
     ],
-    "homepage": "https://github.com/Drarig29/brackets-viewer.js#readme",
+    "homepage": "https://github.com/rarechrisclark/tournament-frontend#readme",
     "dependencies": {
         "brackets-manager": "^1.6.2",
         "brackets-memory-db": "^1.0.4",
